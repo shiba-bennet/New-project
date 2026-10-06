@@ -1,0 +1,6 @@
+{
+  "name": "Dhaav - Run India",
+  "description": "Book places to run in Indian cities - synthetic 400m tracks, heritage park loops, lake trails, and coastal promenades with verified entry passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
